@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "79f734b7428a1a1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a1ec999b25047aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CSE CORE/COMPILER DESIGN/0. Syllabus.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2080517099af04f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "00c39bf1855cd878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7085d3a514a2f65b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "849ef741dad2f57e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee47d898f663b648",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247,
+    "collapsed": true
+  },
+  "right": {
+    "id": "662d8bf94904c71e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e00b162cb770b755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17b885c2f09d513a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSE CORE/COMPILER DESIGN/0. Syllabus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d360a83ed605d1f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSE CORE/COMPILER DESIGN/0. Syllabus.md"
+              }
+            }
+          },
+          {
+            "id": "d916f10cdf339f0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "8dbe92fb56af20ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSE CORE/COMPILER DESIGN/0. Syllabus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6a1ec999b25047aa",
+  "lastOpenFiles": [
+    "CSE CORE/COMPILER DESIGN/0. Syllabus.md",
+    "CSE CORE/DBMS/0. Intro.md",
+    "CSE CORE/_MATHEMATICS/Probability & Statistics/Probaility & Statistics.md",
+    "CSE CORE/_MATHEMATICS/Graph Theory/1. Graph Theory.md",
+    "RoadMap/Data_Science Mindmap.md",
+    "RoadMap/DSA MindMap.md",
+    "Excalidraw/Drawing 2022-06-09 21.28.56.excalidraw.md",
+    "RoadMap/upto2023.md",
+    "RoadMap/JavaScript_RoadMap.md",
+    "RoadMap/GoLang.md"
+  ]
+}
